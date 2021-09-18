@@ -1,0 +1,24 @@
+---
+title: "PS 811 exercise 1"
+author: "Mingcong Pan"
+date: "9/17/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Selected CV Information
+
+
+* Name: Mingcong Pan
+* Department address: Department of Political Science, 110 North Hall, 1050 Bascom Mall, Madison, WI 53706
+* Email address: mingcong.pan@wisc.edu
+* Education
+    + PhD student in Political Science and Applied Economics, UW-Madison
+    + MSc in Economics, London School of Economics
+    + BA in Economics and Finance, University of Hong Kong
+
